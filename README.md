@@ -739,3 +739,7 @@ with nothing in the log to say why. The working shape is to replace
 with a synthetic clock, so every frame is actually executed, and to kill CSS
 animations at parse time so an infinite keyframe cannot burn virtual time in the
 compositor where nothing can observe it.
+
+---
+
+Imported from [Sam1983Aing/nagare](https://github.com/Sam1983Aing/nagare) — original code and attribution preserved.
